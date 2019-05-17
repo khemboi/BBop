@@ -1,0 +1,12 @@
+1. GUI for chatbot
+  C++
+2. Chatbot backend
+Python, JSon, NodeJS
+3. Connect chat bot to user
+Python C++
+4. Make chatbot more responsive
+Python
+5. Connect chatbot to command line
+C++?
+6. connect chat bot to bluetooth and wifi
+C++?
